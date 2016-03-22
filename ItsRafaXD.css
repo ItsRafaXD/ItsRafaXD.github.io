@@ -7,15 +7,4 @@
 #main-room:not(.fullscreenParent) .left_section { width: 61vw; } 
 #main-room:not(.fullscreenParent) #main_player .player_container { height: 61vh; } 
 
-
-
-
-
-
-
-
-
-
-
-
 @import url("https://hebgbs.github.io/rainbowstuff.css"); /* Rainbow sliders and progress bars */
