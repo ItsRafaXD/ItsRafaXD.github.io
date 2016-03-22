@@ -1,8 +1,7 @@
 @import url('https://nightbloo.github.io/dubtrack/dubtrack.css'); 
 @import url('https://nightbloo.github.io/dubtrack/video/left.css'); 
 @import url('https://nightbloo.github.io/dubtrack/chat/left.css'); 
+@import url('https://hebgbs.github.io/rainbowstuff.css'); /* Rainbow sliders and progress bars */
 #main-room:not(.fullscreenParent) {max-width: 100vw;} 
 #main-room:not(.fullscreenParent) .left_section { width: 61vw; } 
 #main-room:not(.fullscreenParent) #main_player .player_container { height: 61vh; } 
-
-@import url('https://hebgbs.github.io/rainbowstuff.css'); /* Rainbow sliders and progress bars */
